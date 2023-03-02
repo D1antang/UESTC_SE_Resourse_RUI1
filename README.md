@@ -1,0 +1,2 @@
+# UESTC_SE_Resourse_RUI1
+电子科技大学软件工程学院的一些资源
