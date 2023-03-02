@@ -6,6 +6,7 @@ import homework2.product.*;
 public class Main {
 
     public static void main(String[] args) {
+        System.out.println("2021090920004 詹锐艺");
         Warehouse warehouse = new Warehouse(1000, 1000);
 
         ThreeDProductProducer threeDProductProducer1 = new ThreeDProductProducer(1) {
